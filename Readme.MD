@@ -4,9 +4,13 @@ Tappable light lamp project on Arduino Nano (code for Platformio). Idea and the 
 
 All the settings and definitions can be adjusted in `platformio.ini` file.
 
+Below is the schematics of this whole story.
+
+![scheme](https://github.com/haykh/-Arduino-Light-Lamp/blob/master/scheme.png)
+
 ### Things used:
 - Arduino Nano
-- LED strip (x15)
+- LED strip (x15 x4)
 - TTP 223
 - 5V DC power
 - 220 Ohm resistor
